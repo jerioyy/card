@@ -11,11 +11,9 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-<<<<<<< HEAD
+
 						<string>https://coding.net/u/jerio/p/card91/git/raw/master/Card.ipa</string>
-=======
-						<string>https://coding.net/u/jerio/p/card91/git/blob/master/Card.ipa</string>
->>>>>>> origin/master
+
 					</dict>
 					<dict>  
             <key>kind</key>  
